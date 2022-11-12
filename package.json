@@ -1,0 +1,7 @@
+{
+  "resolveJsonModule": true,
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^18.6.4"
+  }
+}

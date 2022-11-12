@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "target": "es2017",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "baseUrl": "src/"
+  }
+}
