@@ -1,5 +1,4 @@
 import tests from "./CaseTests.json";
-// import promptSync from 'prompt-sync';
 
 interface VacuumCleanerProps {
   dimensions: { width: number; length: number };
@@ -163,17 +162,6 @@ async function main() {
   console.log("Testes feitos a partir do arquivo CaseTests.json");
   await executeTests();
   console.log("=============================");
-
-
-
-// const prompt = promptSync();
-
-// const input = prompt("Digite a entrada: \n");
-
-// console.log(input)
-
 }
 
 main();
-
-// console.log("ola");
